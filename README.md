@@ -2,7 +2,7 @@
 
 
 ## **Description** :
-A simple flutter app for performing **_GET_** response on _https://jsonplaceholder.typicode.com/posts/_ endpoint using flutter [http package](https://pub.dev/packages/http 'click to see lastest version') from [pub.dev](http://pub.dev 'click to open the site').
+A simple flutter app for performing **_GET_** request on _https://jsonplaceholder.typicode.com/posts/_ endpoint using flutter [http package](https://pub.dev/packages/http 'click to see lastest version') from [pub.dev](http://pub.dev 'click to open the site').
 
 <br>
 
