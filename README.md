@@ -36,7 +36,7 @@ class HttpService {
         print('');
 
         //send "eachPost" value to "Post.fromJson()" factory constructor then,
-        //append all to "allPost" list using .add() -Dart's List built-in method.
+        //append all to "allPost" list using .add() ; - a Dart's List built-in method.
 
         allPost.add(PostModel.fromJson(eachPost));
       }
